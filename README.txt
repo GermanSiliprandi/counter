@@ -1,0 +1,1 @@
+I made a counter to practice querySelectorAll, e.currentTarget and forEach 
